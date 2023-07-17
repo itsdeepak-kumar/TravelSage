@@ -1,5 +1,5 @@
 # TravelSage
-This project is a desktop application developed in C++ using the Qt framework and SQLite database. It is designed to assist in managing tourist information and related data. The application allows users to perform various tasks such as adding and editing tourist details, managing bookings, generating reports, and more.The application consists of several window screens, each serving a specific purpose. The main screens include the Main Window, Add Package, Register Tourist, Find Package, and Fund Tourist.
+This project is a desktop application developed in C++ using the Qt framework and SQLite database. It is designed to assist in managing tourist information and related data. The application allows users to perform various tasks such as adding and editing tourist details, managing bookings, generating reports, and more.The application consists of several window screens, each serving a specific purpose. The main screens include the Main Window, Add Package, Register Tourist, Find Package, and Find Tourist.
 
 ### Tech Stack Used:
 C++ compiler compatible with the Qt framework\
